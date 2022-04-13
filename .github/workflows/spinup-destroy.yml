@@ -13,7 +13,7 @@ env:
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
-  AZURE_WEBAPP_NAME: sachin-cognizant-ttt-app
+  AZURE_WEBAPP_NAME: sachin-cognizant
   #################################################
 
 jobs:
